@@ -1,4 +1,4 @@
-# Asana-Tool-Manajemen-Projek-
+# Asana-Tool-Manajemen-Projek
 by Anneke Shavira M. [19081010041]
 
 # Melakukan Manajemen Projek dengan Asana
